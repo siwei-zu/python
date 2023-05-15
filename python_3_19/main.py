@@ -365,3 +365,7 @@
 # student.show()
 # teacher=Teacher(32,"吴用","讲师","软件学院")
 # teacher.show()
+
+x = 'car'
+y = 2
+print(x + str(y))
