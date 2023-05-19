@@ -371,4 +371,23 @@
 # print(x + str(y))
 
 
-print(666)
+# print(666)
+
+# x = int(input('请输入：'))
+#
+# print('x' + "的值是" + str(x))
+
+# print(complex(10.99))
+
+# def sort(x, sz):
+#     for i in range(sz - 1):
+#         for j in range(sz - i - 1):
+#             if(x[j] > x[j+1]):
+#                 tmp = x[j]
+#                 x[j] = x[j+1]
+#                 x[j+1] = tmp
+#
+# x = [2,4,5,1,8,7,6,39]
+# sz = len(x)
+# sort(x, sz)
+# print(x)
