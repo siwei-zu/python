@@ -391,3 +391,16 @@
 # sz = len(x)
 # sort(x, sz)
 # print(x)
+
+
+# x = ["zhangsan", "lisi", "wangwu"]
+# print(x[0:0])
+# print('%d'%(3/2))
+
+# h = lambda x: 3
+# print(h(123156))
+
+import  random
+x = random.
+
+print(random.choice(x))
